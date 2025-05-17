@@ -1,0 +1,50 @@
+.show{
+  height: 380px;
+  width: 100%;
+  background-image: url("https://previews.123rf.com/images/denisfilm/denisfilm1802/denisfilm180200448/94988743-feminine-cosmetic-background-makeup-cosmetics-tools-and-essentials-flat-lay-on-pink-wooden.jpg");
+  background-size: cover;
+}
+.show_cont{
+  background-color: rgba(0, 0, 0, 0.555);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.slide_show{
+  height: 80%;
+  width: 80%;
+  display: flex;
+  
+overflow-x: auto;
+scroll-behavior: smooth;
+}
+.slide_show::-webkit-scrollbar{
+  display: none;
+}
+.slide_show img{
+  height: 270px;
+  width: 270px;
+  background-size: cover;
+}
+
+
+.arrow_cont{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  font-size: 30px;
+  font-weight: 500;
+  z-index: +99;
+  color: rgb(255, 255, 255);
+cursor: pointer;
+
+}
+.arrow_cont:hover{
+  color: #c665aa;
+}
