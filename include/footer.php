@@ -30,7 +30,7 @@
               <a href="https://github.com/YashikaJaiswal656" target="_blank"><i class="fab fa-github"></i></a>
               <a href="https://www.linkedin.com/in/yashika-jaiswal-83202a345/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <a href="mailto:yashikajaiswal30@gmail.com" target="_blank"><i class="fab fa-google-plus"></i></a>
-              <a href="https://wa.me/8448260585" target="_blank"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://wa.me/8448260587" target="_blank"><i class="fab fa-whatsapp"></i></a>
             </div>
           </div>
 
@@ -64,8 +64,8 @@
             <h3>Contact Us</h3>
             <ul class="footer-list">
               <li><i class="fas fa-map-marker-alt"></i> Delhi Shahdara </li>
-              <li><i class="fas fa-phone"></i> <a href="tel:+1888705770">+91 8448260587</a></li>
-              <li><i class="fas fa-envelope"></i> <a href="mailto:contactinfo@gmail.com">yashikajaiswal30@gmail.com</a></li>
+              <li><i class="fas fa-phone"></i> <a href="tel:+91 8448260587">+91 8448260587</a></li>
+              <li><i class="fas fa-envelope"></i> <a href="mailto:yashikajaiswal30@gmail.com">yashikajaiswal30@gmail.com</a></li>
             </ul>
           </div>
 

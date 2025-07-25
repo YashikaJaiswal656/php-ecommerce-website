@@ -109,7 +109,7 @@ $run=mysqli_query($conn,$sql);
         document.querySelector(".cart_gst").innerHTML=gstt;
                 document.querySelector(".pg").value=gstt;
         let grand_pricee=parseInt(updateElementt)+parseInt(gstt);
-        document.querySelector(".cart_total").innerHTML=grand_pricee
+        document.querySelector(".cart_total").innerHTML=grand_pricee;
         document.querySelector(".pt").value=grand_pricee;
         
             quantityInput.addEventListener('input', () => {
